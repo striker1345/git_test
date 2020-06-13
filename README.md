@@ -1,1 +1,1 @@
-this is pol1345's first git project
+this is striker1345's first git project
